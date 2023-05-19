@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Safi ur Rehman</h1>
 <h3 align="center">A passionate AI Engineer from Pakistan</h3>
 
+<img src="Black and Blue Abstract LinkedIn banner (1).gif" alt="Computer man" style="width:48px;height:48px;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-safiurrehman&label=Profile%20views&color=0e75b6&style=plastic" alt="dev-safiurrehman" /> </p>
 
 - 🔭 I’m currently working on [OCR-PDF-Recognize](https://github.com/SleepyRizi/OCR-PDF-Recognize)
